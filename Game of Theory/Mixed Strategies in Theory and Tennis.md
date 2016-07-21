@@ -38,6 +38,3 @@ $$\begin{cases} L -> [50]q + [80](1-q)\\ R -> [90]q + [20](1-q)\end{cases}$$
 2. Strategy effect. Serena应该加强右侧防守，因为Venus回击左侧的概率会降低，所以Serena应该更多防守右侧。
 
 到底应该是采取Direct effect，还是应该Strategy effect呢？通过之前的方法，可以解得，应该采取Stategy effect的方式。
-
-
-
